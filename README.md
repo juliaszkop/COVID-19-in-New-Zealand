@@ -7,7 +7,7 @@ This repository contains the results of a coursework project on **data analysis 
 * **data/** – datasets used in the analysis
 * **scripts/** – Python scripts for generating plots and visualizations
 * **report/** – HTML report summarizing results
-* **poster/** – project poster with key findings
+* **poster** – project poster with key findings
 
 ## Project Overview
 
