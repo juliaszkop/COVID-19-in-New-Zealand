@@ -29,4 +29,3 @@ We chose New Zealand as a case study because of its unique position as an island
 * Vaccinations were strongly associated with reduced hospitalizations.
 * By 2024, daily cases stabilized at only a few hundred, showing sustained control of the virus.
 
-Do you want me to also make a **shorter, presentation-style version** of the README (just 2–3 sentences plus repo structure), so it looks cleaner for GitHub visitors?
